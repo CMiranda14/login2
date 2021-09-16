@@ -1,0 +1,51 @@
+.banner-login2{
+    max-width:475px;
+    height:auto;
+}
+
+.banner-login2 img{
+    align-self: flex-end;
+    width:425.19px;
+    height:161.33px;
+    padding-left: 30px;
+    margin-top:15px;
+
+}
+
+.banner-login2 h2{
+    font-size: 38px;   
+}
+.banner-login2 span{ 
+    font-size: 25px;
+}
+
+.section2{
+    width:475px;
+    
+    position:relative;
+    margin-top:140px;
+    z-index: 1;
+
+}
+
+/*------------------------------------------*/
+
+.banner-login{
+    max-width:475px;
+}
+
+.formulario_label{
+    font-size:18px;
+}
+
+.formulario_label input{
+    font-size: 20px;
+}
+
+.banner-login button{
+    font-size:20px;
+}
+
+.forgot-pass{
+   font-size:20px;
+}
